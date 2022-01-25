@@ -1,4 +1,4 @@
-👋 Hi, I’m Maria and I'm a biologist turned aspiring software engineer!
+👋 Hi, I’m Maria and I'm a biologist turned aspiring UX engineer!
 <br>
 🌎Currently learning Javascipt, resonsive web design, and APIs. 
 <br>
