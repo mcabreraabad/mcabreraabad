@@ -4,7 +4,7 @@
 <br>
 🚀Want to learn React, backend fundamentals, and UI/UX design.
 
-💻 Feel free to connect with me, especially other people beggining their coding journeys!
+💻 Feel free to connect with me, especially other people beginning their coding journeys!
 <br>
 maria.cabreraabad@gmail.com
 <br>
