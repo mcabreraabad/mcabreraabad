@@ -1,10 +1,10 @@
-👋 Hi, I’m Maria and I'm a biologist turned aspiring UX engineer!
+👋 Hi, I’m Maria and I'm a biologist who's interested in learning frontend development.
 <br>
-🌎Currently learning Javascipt, resonsive web design, and APIs. 
+🌎Currently learning Javascipt & responsive web design. 
 <br>
 🚀Want to learn React, backend fundamentals, and UI/UX design.
 
-💻 Feel free to connect with me, especially other engineers in the beggining of their journeys!
+💻 Feel free to connect with me, especially other people beggining their coding journeys!
 <br>
 maria.cabreraabad@gmail.com
 <br>
