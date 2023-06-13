@@ -1,8 +1,4 @@
 👋 Hi, I’m Maria and I'm a biologist who's interested in learning frontend development.
-<br>
-🌎Currently learning Javascipt & responsive web design. 
-<br>
-🚀Want to learn React, backend fundamentals, and UI/UX design.
 
 💻 Feel free to connect with me, especially other people beginning their coding journeys!
 <br>
